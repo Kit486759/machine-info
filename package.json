@@ -17,7 +17,10 @@
   "author": "Kit So",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Kit486759/w4d2-npm-mod/issues"
+    "url": "https://github.com/Kit486759/machine-info/issues"
   },
-  "homepage": "https://github.com/Kit486759/w4d2-npm-mod#readme"
+  "homepage": "https://github.com/Kit486759/machine-info#readme",
+  "dependencies": {
+    "user": "0.0.0"
+  }
 }

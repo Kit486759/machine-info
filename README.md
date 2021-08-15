@@ -4,7 +4,7 @@ Console log your machine information.
 
 # Installation
 
-`npm i machineinfo --save`
+`npm i machine-info --save`
 
 # How to use?
 
