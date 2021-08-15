@@ -9,7 +9,9 @@ Get your machine information.
 # How to use?
 
 ///import the module
+<br>
 import { machineInfo } from 'machineinfo';
 
 ///simple run it as function
+<br>
 machineInfo()# w4d2-npm-mod
