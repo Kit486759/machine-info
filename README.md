@@ -15,8 +15,9 @@ Console log your machine information.
 ///simple run it as function
 <br>
 `machineInfo()# w4d2-npm-mod`
-<br>
+
 ///your machine info in console log
+<br>
 `
 Machine host name: DESKTOP-EXAMPLE
 Machine os architecture: x64
