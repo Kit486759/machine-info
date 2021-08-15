@@ -19,9 +19,9 @@ Console log your machine information.
 ///your machine info in console log
 <br>
 `
-Machine host name: DESKTOP-EXAMPLE
-Machine os architecture: x64
-Machine cpu model: CPU MODEL @ 2.60GHz with number of cores
-Machine ram: 16238 Mb
+Machine host name: DESKTOP-EXAMPLE<br>
+Machine os architecture: x64<br>
+Machine cpu model: CPU MODEL @ 2.60GHz with number of cores<br>
+Machine ram: 16238 Mb<br>
 Machine ip address: 1.2.3.4
 `
