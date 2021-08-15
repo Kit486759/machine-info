@@ -1,0 +1,23 @@
+{
+  "name": "machine-info",
+  "version": "1.0.0",
+  "description": "Console log your machine info",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kit486759/machine-info.git"
+  },
+  "keywords": [
+    "os",
+    "machine"
+  ],
+  "author": "Kit So",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Kit486759/w4d2-npm-mod/issues"
+  },
+  "homepage": "https://github.com/Kit486759/w4d2-npm-mod#readme"
+}
